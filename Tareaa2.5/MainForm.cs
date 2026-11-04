@@ -29,5 +29,12 @@ namespace Tareaa2._
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void Button1Click(object sender, EventArgs e)
+		{
+			Form1 i =new Form1();
+			i.Show();
+			this.Hide();
+		}
 	}
 }
