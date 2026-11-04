@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC21
+ * User: CC1_PC01
  * Date: 04/11/2026
- * Time: 07:21 a. m.
+ * Time: 08:54 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -28,13 +28,6 @@ namespace Tareaa2._
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-		}
-		
-		void Button1Click(object sender, EventArgs e)
-		{
-			Form1 i =new Form1();
-			i.Show();
-			this.Hide();
 		}
 	}
 }
